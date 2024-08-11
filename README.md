@@ -4,7 +4,8 @@
 [![Power BI](https://img.shields.io/badge/Power%20BI-Desktop-yellow.svg)](https://powerbi.microsoft.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# <p align ="center">![Pic](https://github.com/Pandat-0052/Data-Analytics-Projects-using-SQL-HR-Analytic-Paytm-Pharma/blob/main/HR.JPG)</p>
+# <p align ="center">![Pic](https://github.com/Pandat-0052/Healthcare-Analytics-Project-Hospital-Provider-Power-BI/blob/main/Patient.JPG)</p>
+# <p align ="center">![Pic](https://github.com/Pandat-0052/Healthcare-Analytics-Project-Hospital-Provider-Power-BI/blob/main/Billing.JPG)</p>
 
 ## Overview
 
@@ -38,7 +39,7 @@ This project involves a comprehensive analysis of healthcare data to gain insigh
   - Investing in more instruments
   - Hiring additional lab workers and support staff
 
-This version includes an invitation for suggestions, discussions, and feedback, as well as a call to open issues for any errors encountered.
+**This version includes an invitation for suggestions, discussions, and feedback, as well as a call to open issues for any errors encountered.**
 
 
 
